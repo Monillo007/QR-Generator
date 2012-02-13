@@ -1,0 +1,1 @@
+Generador de Códigos QR en Java utilizando la librería barcode.jar
